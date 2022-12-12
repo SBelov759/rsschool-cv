@@ -23,4 +23,12 @@ function getRandom(min, max){
   return Math.ceil(Math.random() * (max - min) + min))
 }
 ```
+## Education and courses:
+1. JavaScript https://learn.javascript.ru/ 1
+2. Belhard academy css, HTML, JS - Basic 2
+3. Belhard academy JS - advanced course 3
+
+## Language:
+ English level - A2
+ 
 
