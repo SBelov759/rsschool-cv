@@ -15,10 +15,12 @@ At the moment i am working  Deputy Director in BergHOFF company. I have a lot of
 Nothing yet…
 
 ## Code example: 
-```const box = document.createElement('div');
-
+```
+const box = document.createElement('div');
 box.style.backgroundColor = `rgb(${getRandom(0, 255)}, ${getRandom(0, 255)}, ${getRandom(0, 255)})`;
 
 function getRandom(min, max){
   return Math.ceil(Math.random() * (max - min) + min))
-}```
+}
+```
+
